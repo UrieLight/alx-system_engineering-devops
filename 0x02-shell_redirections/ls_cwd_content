@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 2 root root 4096 Oct 10 09:41 .
+drwxr-xr-x 7 root root  145 Oct  9 23:45 ..
+-rwxr--r-- 1 root root   32 Oct  9 23:54 0-hello_world
+-rwxr--r-- 1 root root   28 Oct 10 02:54 1-confused_smiley
+-rwxr--r-- 1 root root   30 Oct 10 02:57 2-hellofile
+-rwxr--r-- 1 root root   39 Oct 10 07:31 3-twofiles
+-rwxr--r-- 1 root root   31 Oct 10 03:06 4-lastlines
+-rwxr--r-- 1 root root   31 Oct 10 07:42 5-firstlines
+-rwxr--r-- 1 root root   36 Oct 10 08:02 6-third_line
+-rwxr--r-- 1 root root   84 Oct 10 09:37 7-file
+-rwxr--r-- 1 root root   36 Oct 10 09:40 8-cwd_state
+-rwxr-xr-x 1 root root  108 Oct  9 23:48 auto_full_create_push
+-rwxr-xr-x 1 root root   48 Oct  9 23:48 auto_git_add_commit_push
+-rw-r--r-- 1 root root   15 Oct 10 00:48 file_numbers_list.txt
+-rw-r--r-- 1 root root   12 Oct 10 00:50 file_text_list.txt
+-rw-r--r-- 1 root root    0 Oct 10 09:41 ls_cwd_content
+-rw-r--r-- 1 root root   19 Oct  9 23:47 README.md
+-rw-r--r-- 1 root root  673 Oct 10 00:46 test_example
+-rw-r--r-- 1 root root  673 Oct 10 00:46 test_example
